@@ -1,0 +1,44 @@
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\PaymentContext.exe.config
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\PaymentContext.exe
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\PaymentContext.pdb
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.abstractions.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.core.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.abstractions.xml
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.core.xml
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.AssemblyReference.cache
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.CoreCompileInputs.cache
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.CopyComplete
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\obj\Debug\PaymentContext.exe
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\obj\Debug\PaymentContext.pdb
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\Flunt.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.assert.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.assert.xml
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.execution.desktop.dll
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\luiz.lajus\source\repos\ADO.NET\Codigo-Fonte\Seção 04\PaymentContext\PaymentContext\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\PaymentContext.exe.config
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\PaymentContext.exe
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\PaymentContext.pdb
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\Flunt.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.abstractions.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.assert.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.core.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.abstractions.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.assert.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.core.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\obj\Debug\PaymentContext.csproj.CopyComplete
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\obj\Debug\PaymentContext.exe
+C:\Users\Luiz Henrique Lajus\source\repos\PaymentContext\PaymentContext\obj\Debug\PaymentContext.pdb
